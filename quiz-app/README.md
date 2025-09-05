@@ -50,25 +50,23 @@ Quiz-App/
 
 Watch the demo of the app below:
 
-<video width="600" controls>
-  <source src="assets/quiz-app-demo.mp4" type="video/mp4">
-</video>
+![demo gif](quiz-app/src/assets/quiz-app-demo.gif)
 
 ---
 
 ## Screenshots
 
 ### Home Page
-![Home Page](./assets/home-page.png)
+![Home Page](quiz-app/src/assets/home-page.png)
 
 ### Quiz Page
-![Quiz Page](./assets/quiz-page.png)
+![Quiz Page](quiz-app/src/assets/quiz-page.png)
 
 ### Result Page
-![Result Page](./assets/result-page.png)
+![Result Page](quiz-app/src/assets/result-page.png)
 
 ### Restart Page
-![Restart Page](./assets/restart-page.png)
+![Restart Page](quiz-app/src/assets/restart-page.png)
 
 ---
 
